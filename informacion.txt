@@ -1,0 +1,11 @@
+PROYECTO: Practica de GitHub
+
+OBJETIVO:
+Aprender a crear un repositorio y subir archivos desde la pagina web de GitHub.
+
+CONTENIDO:
+- index.html
+- informacion.txt
+
+NOTA:
+Estos archivos son ejemplos de practica.
